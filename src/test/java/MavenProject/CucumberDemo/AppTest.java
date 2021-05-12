@@ -31,6 +31,10 @@ public class AppTest
     {
     	System.out.println("Test");
     }
+    public void rogerthat()
+    {
+    	System.out.println("I gotcha");
+    }
 
     /**
      * Rigourous Test :-)
