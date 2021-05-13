@@ -37,7 +37,7 @@ public class AppTest
     }
     public void newday()
     {
-    	System.out.println("Hello Weekend");
+    	System.out.println("Hello Weekend I am here");
     }
 
     /**
