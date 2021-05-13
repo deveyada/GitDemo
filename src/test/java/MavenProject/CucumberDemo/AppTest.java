@@ -35,6 +35,10 @@ public class AppTest
     {
     	System.out.println("I gotcha");
     }
+    public void newday()
+    {
+    	System.out.println("Hello Weekend");
+    }
 
     /**
      * Rigourous Test :-)
